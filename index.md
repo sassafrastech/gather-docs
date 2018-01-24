@@ -2,10 +2,12 @@
 layout: default
 ---
 
-<b>Gather is Software for Community.</b>
+![Screenshot](assets/screenshots/directory.png)
 
-Gather's mission is to take care of the details of running a community so members can focus on having fun and building relationships.
+## Gather is Software for Community.
 
-Created in 2015, Gather has handled over $50,000 in shared meals, 3,000 common space reservations, and much more.
+Gather's mission is to **make community easier** so members can focus on having fun and building relationships.
 
-<b>Contact <a href="mailto:support@gather.coop">support@gather.coop</a> to try it out for free!</b>
+Created in 2015, Gather has been host to over 300 users, $50,000 worth of shared meals, 3,000 resource reservations, and much more.
+
+**[Contact us](mailto:info@gather.coop) to try it out for free!**
