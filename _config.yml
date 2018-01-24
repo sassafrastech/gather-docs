@@ -1,8 +1,9 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
 name: Gather
+title: Gather
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Information about Gather, the cohousing management software.
+description: Software for Community
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Tom Smyth
@@ -36,9 +37,6 @@ kramdown:
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
 permalink: pretty
-
-# How many articles do you wish to appear on the front page:
-paginate: 3
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

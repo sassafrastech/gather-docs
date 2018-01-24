@@ -2,10 +2,10 @@
 layout: default
 ---
 
-It has been in use at three Ann Arbor communities since the fall of 2015. Here are some stats:
+<b>Gather is Software for Community.</b>
 
-* There are over 250 active users.
-* About 600 meals (15,000+ servings) have been run through the system so far, amounting to over $50,000 billed.
-* Over 2,800 reservations have been made.
+Gather's mission is to take care of the details of running a community so members can focus on having fun and building relationships.
 
-<b>Contact <a href="mailto:support@gather.coop">support@gather.coop</a> with questions or if you'd like to try it out for free!</b>
+Created in 2015, Gather has handled over $50,000 in shared meals, 3,000 common space reservations, and much more.
+
+<b>Contact <a href="mailto:support@gather.coop">support@gather.coop</a> to try it out for free!</b>

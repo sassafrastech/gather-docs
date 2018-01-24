@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 header {
-  // @media print, screen and (min-width: 961px) {
-    h3#slogan {
-      text-align: right;
-    }
-  // }
+  margin-top: -15px;
+
+  h3#slogan {
+    text-align: right;
+  }
 
   img {
     margin-bottom: 0px;
@@ -36,5 +36,13 @@ header ol {
     font-size: 16px;
     font-weight: bold;
     color: #142d92;
+
+    &:hover {
+      font-weight: bold;
+    }
   }
+}
+
+a:hover {
+  font-weight: normal;
 }
