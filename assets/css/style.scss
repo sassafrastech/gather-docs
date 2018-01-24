@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  // @media print, screen and (min-width: 961px) {
+    h3#slogan {
+      text-align: right;
+    }
+  // }
+
+  img {
+    margin-bottom: 0px;
+  }
+}
+
+header ol {
+  border: none;
+  padding: 0;
+
+  li {
+    @media print, screen and (min-width: 961px) {
+      text-align: right;
+    }
+    border: none;
+    float: none;
+    height: 30px;
+    width: inherit;
+    list-style-type: none;
+  }
+
+  a {
+    background-color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #142d92;
+  }
+}
