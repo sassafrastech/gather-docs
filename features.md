@@ -1,5 +1,7 @@
 # Features
 
+_Click the links below to see lots of screenshots from the system._
+
 ## Meals
 
 Gather's initial purpose was as a meals administration system. Gather communities tend to have very healthy [meals programs](assets/screenshots/meals-index.png). Meals features include:
@@ -69,16 +71,21 @@ Gather is the [hub for all your community information](assets/screenshots/ts-wik
 * For nearby communities, ability to share meals, resources, and contact info, and customize what is shared and what is private
 * Fully open source
 
-## Planned Features
+## Planned Feature Roadmap
 
-Gather does a lot but it could do so much more. We've got big plans. In particular:
+Gather does a lot but it could do so much more. We've got big plans.
+
+Top Priorities:
 
 * Shared work system for managing community labor
 * Full event calendaring system, tightly integrated with meals, reservations, meetings, birthdays, etc.
 * Google Drive integration for document storage and collaborative editing
-* Mailman integration for community email
+* Mailman and/or Discourse integration for community messaging
+
+Other Major Goals:
+
 * Emergency SMS alerts
-* "Meeting Minder" for coordinating meeting notice, agenda templates, minutes review and distribution, space reservation, etc.
+* Meeting Minder for coordinating meeting notice, agenda templates, minutes review and distribution, space reservation, etc.
 * Online bill payments
 * QuickBooks integration
 * Private resource lending

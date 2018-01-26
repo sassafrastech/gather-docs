@@ -4,7 +4,7 @@ Gather is **community supported software**.
 
 It is currently in beta and free to use.
 
-Once the beta period is over, in order to sustain the project we are asking communities to contribute on a sliding scale of
+In order to sustain the project, once the beta period is over we will be asking communities to contribute on a sliding scale of
 
 **<big>$2-5</big>/user/month**
 
