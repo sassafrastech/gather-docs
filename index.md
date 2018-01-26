@@ -10,4 +10,4 @@ Gather's mission is to **make community easier** so members can focus on having 
 
 Created in 2015, Gather has been host to over 300 users, $50,000 worth of shared meals, 3,000 resource reservations, and much more.
 
-**[Contact us](mailto:info@gather.coop) to try it out for free!**
+**[Request an account](/accountrequest) to try it out for free!**

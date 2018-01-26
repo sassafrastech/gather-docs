@@ -42,6 +42,8 @@ permalink: pretty
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
 
 menu:
+  - title: Request Account
+    url: /accountrequest
   - title: Features
     url: /features
   - title: Pricing/Sustainability
