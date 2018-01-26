@@ -2,7 +2,12 @@
 
 Gather is **community supported software**.
 
-In order to sustain the project we are asking communities to contribute on a sliding scale of **$2-5/user/month**.
+It is currently in beta and free to use.
+
+Once the beta period is over, in order to sustain the project we are asking communities to contribute on a sliding scale of
+
+**<big>$2-5</big>/user/month**
+
 Children are free. No community will be turned away for lack of funds.
 
 A 90-day trial period will be allowed so that communities can fully explore the system before subscribing. This period can be extended upon request to accommodate community budget schedules.
