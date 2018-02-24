@@ -152,7 +152,7 @@ Not yet. What would you need one for? [Let's talk](/contact).
 
 #### Can we self-host our own Gather instance?
 
-Gather is open source (https://github.com/sassafrastech/gather) so anyone is free to setup their own instance. This is not something that [Sassafras](https://sassafras.coop) will be selling support services around, however.
+Gather is [open source](https://github.com/sassafrastech/gather) so anyone is free to setup their own instance. This is not something that [Sassafras](https://sassafras.coop) will be selling support services around, however.
 
 Self-hosting is also not likely to be a cost-saving measure once you consider the value of your members' time. Maintaining an active, complex web application takes a lot of time and expertise.
 
