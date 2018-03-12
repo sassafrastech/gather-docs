@@ -6,6 +6,7 @@
 1. [Support](#support)
 1. [Users & Households](#users--households)
 1. [Meals](#meals)
+1. [Reservations](#reservations)
 1. [Feature Roadmap](#feature-roadmap)
 1. [Technical Stuff](#technical-stuff)
 
@@ -114,6 +115,29 @@ These are the basic steps:
 4. **Summary**<br/>The cook views or prints out the meal summary page which lists the number of diners of each type, the expected number of portions needed, and grocery allowance calculations.
 5. **Mealtime and Late Additions**<br/>Let's eat! Any late signups permitted by the cook are recorded on the summary sheet or elsewhere.
 6. **Finalizing**<br/>The biller finalizes the meal. This includes adjusting the signup counts to reflect latecomers and entering the amount spent on groceries. Charges are added to diner accounts. Care should be taken here as this step can't be undone.
+
+## Reservations
+
+#### How do we set maximum booking amounts or maximum days in advance or ...?
+
+Gather has a sophisticated set of protocols for governing reservations. They include:
+
+* Fixed start and end times (great for guest rooms or other per-day resources)
+* Customizable reservation types (e.g. personal vs. official) with the ability to set different protocols for different types
+* Maximum days in advance
+* Maximum reservation duration
+* Household limits
+    * Maximum days per year with a reservation
+    * Maximum total hours per year
+* Customizable notices that appear at the top of the reservation form
+* Customizable resource policies that reservers must agree to when making a reservation
+* For multi-community clusters, the ability to disable or require a sponsor for reservations from other communities
+
+Each of the above is configurable for a single resource or group of resources.
+
+#### How do I configure all the above settings?
+
+The user interface for editing these settings is still under construction. In the mean time, Gather staff can set things up for you upon request.
 
 ## Feature Roadmap
 
