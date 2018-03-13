@@ -207,6 +207,19 @@ Self-hosting could be a sensible model if you have a lot of developer talent (an
 
 We like to think that contributing to Gather (either with code or with dollars) is an investment in a movement.
 
+#### I've heard Rails applications can be hosted for free on Heroku. How about that?
+
+Heroku's free tier is designed for experimentation, not production use, and Gather is a beefy enough application that your users' experience will likely not be good on Heroku's free tier. Some considerations:
+
+* 512mb of memory is low for a production Rails application. If the server runs out of memory you'll have downtime and user frustration.
+* Free tier instances go to sleep after 30 minutes idle and they are slow (~20s) to start up again, which will also be frustrating for users.
+* Free tier instances also don't support HTTPS, so security user profile and billing account data will be transmitted unencrypted.
+* Also, once you start digging into the requisite add-ons (email, database, image processing, caching, full-text search (coming soon), monitoring) you will likely find that costs start mounting up.
+
+Then there is support. As mentioned above, maintaining a production web application is not a trivial matter. (At Sassafras we like to say a web application is more like a dog than a hammer!) Heroku helps with some maintenance tasks but not all of them.
+
+Given all this, we'd be much happier if your dollars were going towards supporting Gather instead of Heroku!
+
 <!--
 ## Billing
 
