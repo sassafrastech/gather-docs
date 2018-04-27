@@ -30,7 +30,7 @@ Supporting staff time represents the lion's share of the system's cost. Staff ti
 
 * Server support and maintenance
 * Bug fixing
-* New feature devevelopment
+* New feature development
 * Documentation
 * Design
 * Project management
