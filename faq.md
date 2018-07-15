@@ -144,7 +144,7 @@ The user interface for editing these settings is still under construction. In th
 
 #### Why a wiki?
 
-The reason we built a wiki into Gather was so we could have full control over the user interface and maintain an integrated experience. Other ope-source wikis are all, in our experience, pretty clunky or lacking key features.
+The reason we built a wiki into Gather was so we could have full control over the user interface and maintain an integrated experience. Other open-source wikis are all, in our experience, pretty clunky or lacking key features.
 
 The wiki has been a huge success at Touchstone Cohousing, even among elderly residents! Pre-wiki, we were having a pretty hard time with information architecture. Our shared Google Drive was well organized, but people still had a lot of trouble finding things or even just "getting into" Drive in some cases.
 
