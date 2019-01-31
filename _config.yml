@@ -44,11 +44,27 @@ exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffe
 menu:
   - title: Request Account
     url: /accountrequest
-  - title: Features
-    url: /features
   - title: Pricing/Sustainability
     url: /pricing
+  - title: Feature Roadmap
+    url: /roadmap
   - title: FAQ
     url: /faq
   - title: Contact
     url: /contact
+
+features:
+  - title: Overview
+    url: /features/overview
+  - title: Meals
+    url: /features/meals
+  - title: Work
+    url: /features/work
+  - title: Directory
+    url: /features/directory
+  - title: Reservations
+    url: /features/reservations
+  - title: Billing
+    url: /features/billing
+  - title: Wiki
+    url: /features/wiki
