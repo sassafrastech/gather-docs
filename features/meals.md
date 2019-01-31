@@ -1,3 +1,7 @@
+---
+slug: meals
+---
+
 # Meals
 
 _Click the links below to see lots of screenshots from the system._
@@ -13,3 +17,5 @@ Gather's initial purpose was as a meals administration system. Gather communitie
 * Email reminders for workers and diners
 * Automatic integration with facility reservations (see below)
 * Ability to easily email meal attendees
+
+{% include faq-section.md slug=page.slug %}

@@ -1,3 +1,7 @@
+---
+slug: reservations
+---
+
 # Reservations
 
 _Click the links below to see lots of screenshots from the system._
@@ -9,3 +13,5 @@ Community is all about sharing. Gather makes it easy to share common resources i
 * Customizable, rich-text resource [guidelines](assets/screenshots/create-reservation.png) so users are reminded of community policies at the time of reservation
 * Fine-grained [reservation policies](assets/screenshots/create-reservation-with-error.png) including things like event type, max. days per year, max. length, max. days in advance, etc.
 * Exportable [reservation calendars](assets/screenshots/calendar-export.png)
+
+{% include faq-section.md slug=page.slug %}

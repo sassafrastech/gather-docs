@@ -68,3 +68,21 @@ features:
     url: /features/billing
   - title: Wiki
     url: /features/wiki
+
+faqs:
+  - title: Pricing/Sustainability
+    slug: pricing
+  - title: Support
+    slug: support
+  - title: Directory
+    slug: directory
+  - title: Meals
+    slug: meals
+  - title: Reservations
+    slug: reservations
+  - title: Wiki
+    slug: wiki
+  - title: Feature Roadmap
+    slug: roadmap
+  - title: Technical Stuff
+    slug: technical

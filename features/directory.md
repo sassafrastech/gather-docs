@@ -1,3 +1,7 @@
+---
+slug: directory
+---
+
 # Directory
 
 _Click the links below to see lots of screenshots from the system._
@@ -11,3 +15,5 @@ Gather is the central place for all your [member info](assets/screenshots/direct
 * Printable version with photos and basic details
 * [Household pages](assets/screenshots/household.png)
 * Member info is exportable to CSV
+
+{% include faq-section.md slug=page.slug %}
