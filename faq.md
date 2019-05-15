@@ -6,7 +6,11 @@
 1. [{{item.title}}](#{{item.slug}})
 {% endfor %}
 
-{% for item in site.faqs %}
+{% for item in site.faqs -%}
 ## {{item.title}}
-{% include faqs/{{item.slug}}.md %}
+{% if item.link -%}
+  See the [{{item.title}}](/features/{{item.slug}}) page.
+{%- else -%}
+  {%- include faqs/{{item.slug}}.md -%}
+{% endif %}
 {% endfor %}

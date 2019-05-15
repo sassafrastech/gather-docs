@@ -70,19 +70,24 @@ features:
     url: /features/wiki
 
 faqs:
-  - title: Pricing/Sustainability
-    slug: pricing
-  - title: Support
-    slug: support
   - title: Directory
     slug: directory
+    link: true
   - title: Meals
     slug: meals
+    link: true
+  - title: Pricing/Sustainability
+    slug: pricing
   - title: Reservations
     slug: reservations
-  - title: Wiki
-    slug: wiki
-  - title: Feature Roadmap
-    slug: roadmap
+    link: true
+  - title: Support
+    slug: support
   - title: Technical Stuff
     slug: technical
+  - title: Wiki
+    slug: wiki
+    link: true
+  - title: Work
+    slug: work
+    link: true
