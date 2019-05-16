@@ -51,3 +51,11 @@ a:hover {
 h4 {
   margin-bottom: 5px;
 }
+
+table.pricing-scale {
+  width: 100%;
+
+  th, td {
+    width: 33%;
+  }
+}
