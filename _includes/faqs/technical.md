@@ -4,7 +4,7 @@ We have chosen a very well established technology stack to ensure Gather's longe
 
 * Web: Ruby on Rails
 * Database: PostgreSQL
-* Frontend: JQuery, Backbone, Bootstrap, React (planned)
+* Frontend: JQuery, Backbone, Bootstrap
 * Data Viz: D3
 
 #### Can we get our data out of Gather for analysis or if we want to go elsewhere?
@@ -27,7 +27,7 @@ See the [planned feature roadmap](/features#planned-feature-roadmap) for what we
 
 #### Can we self-host our own Gather instance?
 
-Gather is [open source](https://github.com/sassafrastech/gather) so anyone is free to setup their own instance. This is not something that [Sassafras](https://sassafras.coop) will be selling support services around, however.
+Gather is [open source](https://github.com/gather-community/gather) so anyone is free to setup their own instance.
 
 Self-hosting is also not likely to be a cost-saving measure once you consider the value of your members' time. Maintaining an active, complex web application takes a lot of time and expertise.
 
@@ -44,6 +44,6 @@ Heroku's free tier is designed for experimentation, not production use, and Gath
 * Free tier instances also don't support HTTPS, so security user profile and billing account data will be transmitted unencrypted.
 * Also, once you start digging into the requisite add-ons (email, database, image processing, caching, full-text search (coming soon), monitoring) you will likely find that costs start mounting up.
 
-Then there is support. As mentioned above, maintaining a production web application is not a trivial matter. (At Sassafras we like to say a web application is more like a dog than a hammer!) Heroku helps with some maintenance tasks but not all of them.
+Then there is support. As mentioned above, maintaining a production web application is not a trivial matter. (We like to say a web application is more like a dog than a hammer!) Heroku helps with some maintenance tasks but not all of them.
 
 Given all this, we'd be much happier if your dollars were going towards supporting Gather instead of Heroku!
