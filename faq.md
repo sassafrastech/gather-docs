@@ -9,7 +9,7 @@
 {% for item in site.faqs -%}
 ## {{item.title}}
 {% if item.link -%}
-  See the [{{item.title}}](/features/{{item.slug}}) page.
+  See the [{% if item.page_title %}{{item.page_title}}{% else %}{{item.title}}{% endif %}](/features/{{item.slug}}) page.
 {%- else -%}
   {%- include faqs/{{item.slug}}.md -%}
 {% endif %}

@@ -70,7 +70,8 @@ features:
     url: /features/wiki
 
 faqs:
-  - title: Directory
+  - title: Directory/Users
+    page_title: Directory
     slug: directory
     link: true
   - title: Meals
