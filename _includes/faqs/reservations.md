@@ -17,4 +17,5 @@ Each of the above is configurable for a single resource or group of resources.
 
 #### How do I configure all the above settings?
 
-The user interface for editing these settings is still under construction. In the mean time, Gather staff can set things up for you upon request.
+Click 'Reservations' and then click the 'Protocols' tab. Create a new protocol or edit an existing one.
+See the descriptions beneath each field in the protocol form for more information on what you can achieve with the protocol.
