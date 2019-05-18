@@ -4,9 +4,7 @@ slug: billing
 
 # Billing
 
-_Click the links below to see lots of screenshots from the system._
-
-Tracking expenses and reimbursements allows a community to take meal sharing to the next level:
+In Gather, each household has a billing account. This allows meal expenses to be shared equiably and conveniently.
 
 * Diners receive a regular [account statement](assets/screenshots/statement.png)
 * They can view [current and past statements](assets/screenshots/accounts.png) and get payment instructions
