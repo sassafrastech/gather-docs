@@ -26,5 +26,6 @@ Coming soon:
 
 * Periodic email reminders to update profile so directory stays current
 * Fully customizable roles and permissions
+* CSV import
 
 {% include faq-section.md slug=page.slug %}

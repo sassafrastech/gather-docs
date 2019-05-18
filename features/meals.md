@@ -6,14 +6,21 @@ slug: meals
 
 Gather's initial purpose was as a meals administration system. Gather communities tend to have very healthy [meals programs](/assets/screenshots/meals-index.png). Meals features include:
 
-* A full billing system for sharing meal costs (see below)
+* A full [billing system](/features/billing) for sharing meal costs
 * Multiple [signup types](/assets/screenshots/view-meal.png) (adult, senior, teen, kid; meat/veg)
 * [Customizable cost formulas](/assets/screenshots/meal-formula-form.png)
 * [Beautiful, detailed reporting](/assets/screenshots/meals-report.png) so you can see how your meals program is working
 * Exportable [meal calendar](/assets/screenshots/meal-calendar-entries.png)
 * A pretty, printable [summary sheet](/assets/screenshots/meal-summary.png) for cooks
-* Email reminders for workers and diners
-* Automatic integration with facility reservations (see below)
+* Customizable meal roles (assistant cook, cleaner, etc.)
+* Email reminders for workers, diners, and head cook menu entry
+* Automatic integration with facility [reservations](/features/reservations)
 * Ability to easily email meal attendees
+
+Coming soon:
+
+* Customizable signup types
+* Auto-signup
+* CSV import & export
 
 {% include faq-section.md slug=page.slug %}
