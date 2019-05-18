@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Screenshot](assets/screenshots/directory.png)
+![Screenshot](/assets/screenshots/directory.png)
 
 ## Gather is The App for Community.
 
