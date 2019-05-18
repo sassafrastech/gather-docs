@@ -4,8 +4,6 @@ slug: meals
 
 # Meals
 
-_Click the links below to see lots of screenshots from the system._
-
 Gather's initial purpose was as a meals administration system. Gather communities tend to have very healthy [meals programs](assets/screenshots/meals-index.png). Meals features include:
 
 * A full billing system for sharing meal costs (see below)

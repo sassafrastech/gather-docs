@@ -4,8 +4,6 @@ slug: directory
 
 # Directory
 
-_Click the links below to see lots of screenshots from the system._
-
 Gather is the central place for all your [member info](assets/screenshots/directory.png). Directory features include:
 
 * Easy photo uploading with drag and drop

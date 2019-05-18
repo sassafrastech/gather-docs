@@ -4,8 +4,6 @@ slug: reservations
 
 # Reservations
 
-_Click the links below to see lots of screenshots from the system._
-
 Community is all about sharing. Gather makes it easy to share common resources in a fair and organized way:
 
 * [Book rooms](assets/screenshots/reservations-index.png), vehicles, or other resources

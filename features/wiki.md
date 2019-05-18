@@ -4,8 +4,6 @@ slug: wiki
 
 # Wiki
 
-_Click the links below to see lots of screenshots from the system._
-
 Gather is the [hub for all your community information](assets/screenshots/ts-wiki.png). Members never need ask "Where do I find that info?" ever again.
 
 * Great for information that needs frequent and easy access

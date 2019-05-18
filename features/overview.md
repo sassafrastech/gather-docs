@@ -4,8 +4,6 @@ slug: overview
 
 # Overview
 
-_Click the links below to see lots of screenshots from the system._
-
 * Beautiful design, delightful and easy to use
 * Easy sign-in with a Google account
 * A single sign-in for all services -- no passwords to remember, and you only need to update your profile info in one place
