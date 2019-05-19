@@ -1,0 +1,66 @@
+$theme-main: #142d92;
+$theme-accent: #216916;
+
+header {
+  margin-top: -15px;
+
+  h3#slogan {
+    text-align: right;
+  }
+
+  img {
+    margin-bottom: 0px;
+  }
+}
+
+header ol {
+  border: none;
+  padding: 0;
+
+  li {
+    @media print, screen and (min-width: 961px) {
+      text-align: right;
+    }
+    border: none;
+    float: none;
+    height: 30px;
+    width: inherit;
+    list-style-type: none;
+  }
+
+  a {
+    background-color: white;
+    text-decoration: none;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: $theme-main;
+
+    &:hover {
+      font-weight: bold;
+    }
+  }
+}
+
+a {
+  text-decoration: underline;
+  color: $theme-main;
+
+  &:hover {
+    font-weight: normal;
+    color: $theme-accent;
+  }
+}
+
+// For FAQ
+h4 {
+  margin-bottom: 5px;
+}
+
+table.pricing-scale {
+  width: 100%;
+
+  th, td {
+    width: 33%;
+  }
+}
