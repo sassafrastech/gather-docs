@@ -44,7 +44,7 @@ exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffe
 menu:
   - title: Request Account
     url: /accountrequest
-  - title: Pricing/Sustainability
+  - title: Pricing & Sustainability
     url: /pricing
   - title: Feature Roadmap
     url: /roadmap
@@ -71,24 +71,26 @@ features:
 
 faqs:
   - title: Directory & User Management
+    title_slug: directory--user-management
     page_title: Directory
     slug: directory
     link: true
   - title: Meals
     slug: meals
     link: true
-  - title: Pricing/Sustainability
+  - title: Pricing & Sustainability
+    title_slug: pricing--sustainability
     slug: pricing
   - title: Reservations
     slug: reservations
     link: true
-  - title: Support
-    slug: support
-  - title: Technical Stuff
-    slug: technical
   - title: Wiki
     slug: wiki
     link: true
   - title: Work
     slug: work
     link: true
+  - title: Support
+    slug: support
+  - title: Technical
+    slug: technical

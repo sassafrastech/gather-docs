@@ -1,4 +1,4 @@
-# Pricing/Sustainability
+# Pricing & Sustainability
 
 Gather is **community supported software**.
 

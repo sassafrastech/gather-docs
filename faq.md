@@ -3,7 +3,7 @@
 ## Table of Contents
 
 {% for item in site.faqs -%}
-1. [{{item.title}}](#{{item.slug}})
+1. [{{item.title}}](#{% if item.title_slug %}{{item.title_slug}}{% else %}{{item.slug}}{% endif %})
 {% endfor %}
 
 {% for item in site.faqs -%}

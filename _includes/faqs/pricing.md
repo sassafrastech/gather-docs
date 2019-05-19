@@ -1,10 +1,10 @@
 #### How much does Gather cost?
 
-See the [pricing/sustainability](/pricing) page.
+See the [Pricing & Sustainability](/pricing) page.
 
 #### Why should we pay?
 
-Communities deserve great tech, and great tech is expensive to build and maintain. See the [pricing/sustainability](/pricing) page for more detail.
+Communities deserve great tech, and great tech is expensive to build and maintain. See the [Pricing & Sustainability](/pricing) page for more detail.
 
 #### Will Gather still be around in 5 years?
 
