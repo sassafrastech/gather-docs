@@ -23,7 +23,7 @@ Not yet. What would you need one for? [Let's talk](/contact).
 
 #### What about calendars? Email? File storage? Other features?
 
-See the [planned feature roadmap](/features#planned-feature-roadmap) for what we have in store. If your idea isn't there, [let us know](/contact).
+See the [planned feature roadmap](/roadmap) for what we have in store. If your idea isn't there, [let us know](/contact).
 
 #### Can we self-host our own Gather instance?
 
