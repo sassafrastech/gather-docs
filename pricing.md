@@ -9,9 +9,9 @@ In order to sustain the project, once the beta period is over we will be asking 
 <table class="pricing-scale">
   <thead>
     <tr>
-      <th><big>$1</big><br><small>/user/month</small></th>
-      <th><big>$2</big><br><small>/user/month</small></th>
-      <th><big>$3</big><br><small>/user/month</small></th>
+      <th><big>$1</big><br><small>/member/month</small></th>
+      <th><big>$2</big><br><small>/member/month</small></th>
+      <th><big>$3</big><br><small>/member/month</small></th>
     </tr>
   </thead>
   <tbody>
@@ -23,7 +23,7 @@ In order to sustain the project, once the beta period is over we will be asking 
   </tbody>
 </table>
 
-Children and inactive users don't count toward the price.
+Children and inactive members don't count toward the price.
 
 A 90-day trial period will be allowed so that communities can fully explore the system before subscribing. This period can be extended upon request to accommodate community budget schedules.
 

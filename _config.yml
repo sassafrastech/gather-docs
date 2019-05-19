@@ -56,12 +56,12 @@ menu:
 features:
   - title: Overview
     url: /features/overview
+  - title: Directory
+    url: /features/directory
   - title: Meals
     url: /features/meals
   - title: Work
     url: /features/work
-  - title: Directory
-    url: /features/directory
   - title: Reservations
     url: /features/reservations
   - title: Billing
@@ -70,7 +70,7 @@ features:
     url: /features/wiki
 
 faqs:
-  - title: Directory/Users
+  - title: Directory & User Management
     page_title: Directory
     slug: directory
     link: true

@@ -9,8 +9,8 @@ Gather is the central place for all your [member info](/assets/screenshots/direc
 For everyone:
 
 * Easy photo uploading with drag and drop
-* Quickly search for users by name
-* Full [user profiles](/assets/screenshots/profile.png) including birthdays, vehicles, allergies, pets, medical info, and emergency contacts
+* Quickly search for members by name
+* Full [member profiles](/assets/screenshots/profile.png) including birthdays, vehicles, allergies, pets, medical info, and emergency contacts
 * Children's profiles accessible by parents/guardians
 * Printable version with photos and basic details
 * [Household pages](/assets/screenshots/household.png)
@@ -19,8 +19,8 @@ For everyone:
 
 For admins:
 
-* Easy invitation workflow for adding new users
-* Admins can easily "impersonate" users and take actions on their behalf in case they can't access the system
+* Easy invitation workflow for adding new members
+* Admins can easily "impersonate" members and take actions on their behalf in case they can't access the system
 
 Coming soon:
 
