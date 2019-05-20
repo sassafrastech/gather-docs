@@ -16,19 +16,27 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="/"><img src="/logo-light-bg.svg" /></a>
-        <h3 id="slogan">The App for Community</h3>
-        <ol>
-           {% for item in site.features %}
-              <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-           {% endfor %}
-        </ol>
-        <hr/>
-        <ol>
-           {% for item in site.menu %}
-              <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-           {% endfor %}
-        </ol>
+        <div class="logo-menu">
+          <div class="menu-toggle">
+            MENU &#9660;
+          </div>
+          <div class="logo-slogan">
+            <a href="/"><img src="/logo-light-bg.svg" /></a>
+          </div>
+        </div>
+        <div class="menu">
+          <ol>
+             {% for item in site.features %}
+                <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+             {% endfor %}
+          </ol>
+          <hr/>
+          <ol>
+             {% for item in site.menu %}
+                <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+             {% endfor %}
+          </ol>
+        </div>
       </header>
       <section>
 
