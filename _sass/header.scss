@@ -65,8 +65,11 @@ header ol {
     white-space: nowrap;
     height: 22px;
     padding-left: 5px;
-    color: #222;
     text-decoration: none;
+
+    &, &:visited, &:active, &:hover {
+      color: #222;
+    }
   }
 
   .menu-toggle-ghost {
