@@ -16,13 +16,16 @@
   <body>
     <div class="wrapper">
       <header>
-        <div class="menu-toggle menu-toggle-real">
+        <a href="#" class="menu-toggle menu-toggle-real menu-toggle-show" onclick="toggleMenu(true, event)">
           MENU &#9660;
-        </div>
+        </a>
+        <a href="#" class="menu-toggle menu-toggle-real menu-toggle-hide" onclick="toggleMenu(false, event)">
+          MENU &#9650;
+        </a>
         <div class="logo-menu">
-          <div class="menu-toggle menu-toggle-ghost">
+          <a class="menu-toggle menu-toggle-ghost">
             MENU &#9660;
-          </div>
+          </a>
           <div class="logo-slogan">
             <a href="/"><img src="/logo-light-bg.svg" /></a>
           </div>
@@ -50,6 +53,7 @@
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/menu.js' | relative_url }}"></script>
 
 
   {% if site.google_analytics %}
