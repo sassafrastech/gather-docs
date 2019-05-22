@@ -30,9 +30,7 @@ _-- Daniel Thiel, Great Oak Cohousing_
 
 ---
 
-As the former Work Committee convener, I found gather to be invaluable in tracking a great deal of information that we used to try to track by hand, which left us vulnerable to mistakes. It automated most of the routine tasks that took up a lot of time, leaving us to be able to focus on the other aspects (fairness, equity, individual needs) of the work process. I can't believe we functioned without it as long as we did and I would NEVER advocate going back.
-
-I think it was useful for users as well. People being able to sign on remotely, whether that means from their house or several thousand miles away, helped with access.
+As the former Work Committee convener, I found gather to be invaluable ... it automates most of the routine tasks that took up a lot of time, leaving us to be able to focus on the other aspects (fairness, equity, individual needs) of the work process. I can't believe we functioned without it as long as we did and I would NEVER advocate going back.
 
 _-- Deb Kraus, Touchstone Cohousing_
 
@@ -44,11 +42,7 @@ _-- Paul Conahan, Sunward Cohousing_
 
 ---
 
-Gather makes it easy to look up who's doing what when, what this week's menus are, and how to get in touch with anyone in the community. I love how I can search in Gather for everything that goes on, all in one place on my smartphone. I can reserve a guest room, check on a committee meeting location, and find out who drives that white Honda that has a flat tire, all within a few minutes.
-
-My favorite feature is that it keeps track of my work assignments and my signups for meals and sends me automated (polite!) reminder emails about these. All the organization that cooperative living requires is much easier with Gather.
-
-Tom is continually listening to residents' feedback and adding new features, figuring out ways to make Gather work even better to keep our community humming. Tom has created a system that is customized exactly for a community's needs.
+Gather makes it easy to look up who's doing what when, what this week's menus are, and how to get in touch with anyone in the community. I love how I can search in Gather for everything that goes on, all in one place on my smartphone. I can reserve a guest room, check on a committee meeting location, and find out who drives that white Honda that has a flat tire, all within a few minutes. All the organization that cooperative living requires is much easier with Gather.
 
 _-- Sandra McIntyre, Touchstone Cohousing_
 
@@ -57,12 +51,6 @@ _-- Sandra McIntyre, Touchstone Cohousing_
 I think it is a testament to the quality of Gather that our most techno-phobic residents have taken to it so well.
 
 _-- Leila Tite, Monterey Cohousing_
-
----
-
-Gather is incredibly easy to navigate and makes meals, job choosing, and finding meeting notes much simpler! It has a beautiful and friendly-looking design as well! I am so grateful for how Gather improves our quality and ease of life in co-housing!
-
-_-- Anne Heaton, Touchstone Cohousing_
 
 ---
 
@@ -78,16 +66,6 @@ _-- Edith Lewis, Sunward Cohousing_
 
 ---
 
-I use Gather for the Touchstone work-share program: recording new jobs, updating current and seasonal jobs, adding changes from committees, adding job descriptions, and updating dates and times. At first I was hesitant to take on this important job. I am not a computer person, nor do I feel comfortable with new technology. I was afraid I would not learn it fast enough, but I did! I love working on Gather, and cannot imagine going back to using big whiteboards. Gather is such a user-friendly system.
-
-_-- Pauli Weizman, Touchstone Cohousing_
-
----
-
-I appreciate how easy Gather is to navigate. It is simple, uncluttered and intuitive. I teach our new residents how to use Gather, and it doesn't overwhelm.
-
-I really like that Gather syncs with my Calendar, so meals and jobs just show up in my calendar. What a time saver!
-
-The wiki is also a great tool to catalog all your community's information.
+I really like that Gather syncs with my Calendar, so meals and jobs just show up in my calendar. What a time saver! The wiki is also a great tool to catalog all your community's information.
 
 _-- Lesli Daniel, Touchstone Cohousing_
