@@ -19,7 +19,7 @@
         <a href="#" class="menu-toggle menu-toggle-real menu-toggle-show" onclick="toggleMenu(true, event)">
           MENU &#9660;
         </a>
-        <a href="#" class="menu-toggle menu-toggle-real menu-toggle-hide" onclick="toggleMenu(false, event)">
+        <a href="#" class="menu-toggle menu-toggle-real menu-toggle-hide menu-hidden" onclick="toggleMenu(false, event)">
           MENU &#9650;
         </a>
         <div class="logo-menu">
@@ -30,7 +30,7 @@
             <a href="/"><img src="/logo-light-bg.svg" /></a>
           </div>
         </div>
-        <div class="menu">
+        <div class="menu menu-hidden">
           <ol>
              {% for item in site.features %}
                 <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
