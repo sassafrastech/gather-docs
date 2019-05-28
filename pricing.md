@@ -27,6 +27,8 @@ Children and inactive members don't count toward the price.
 
 A 90-day trial period will be allowed so that communities can fully explore the system before subscribing. This period can be extended upon request to accommodate community budget schedules.
 
+Gather is always free for communities in the planning or forming stages that have not started living together.
+
 ### Community, Not Capital
 
 Software is expensive to build and many software companies rely on funding from private investors to get off the ground.
