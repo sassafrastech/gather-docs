@@ -41,6 +41,16 @@ header ol {
   }
 }
 
+a.request-acct {
+  background-color: $theme-main;
+  color: white;
+  padding: 4px 10px;
+
+  &:hover {
+    color: #dbe2ff;
+  }
+}
+
 .logo-slogan {
   max-width: 300px;
   margin-bottom: 20px;
