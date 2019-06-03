@@ -20,7 +20,7 @@ Gather's initial purpose was as a meals administration system. Gather communitie
 Coming soon:
 
 * Customizable signup types
-* Auto-signup
+* Auto-signup (for communities with a full-participation/opt-out model)
 * CSV import & export
 
 {% include faq-section.md slug=page.slug %}
