@@ -24,7 +24,7 @@ _-- Mary Ann Marquardt, Touchstone Cohousing_
 
 ---
 
-I absolutely love Gather! Gather lives up to the promise of technology. It helps solve coordination problems that are difficult but annoying AND it doesn't cause new problems or take up your time. It is an elegant technology that has helps a community to come together to collaborate on the shared joys (and drudgeries) of community life. Hooray for Gather!
+I absolutely love Gather! Gather lives up to the promise of technology. It helps solve coordination problems that are difficult but annoying AND it doesn't cause new problems or take up your time. It is an elegant technology that helps communities to come together to collaborate on the shared joys (and drudgeries) of community life. Hooray for Gather!
 
 _-- Daniel Thiel, Great Oak Cohousing_
 

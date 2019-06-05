@@ -45,7 +45,7 @@ New feature development and bug fixing will always be needed for any software pr
 
 Reliable system support requires having staff on call who are familiar with the system. Again, relying solely on volunteer efforts here is risky.
 
-Gather used to be an official project of [Sassafras Tech Collective](https://sassafras.coop). However, when it became clear that the all the development work was being done by one member of the collective (Tom Smyth, the project founder), it was agreed that the project should live under its own LLC until it has sufficient funds to enter a support contract with Sassafras, thus increasing its institutional support. This remains the intention.
+Gather used to be an official project of [Sassafras Tech Collective](https://sassafras.coop). However, when it became clear that all the development work was being done by one member of the collective (Tom Smyth, the project founder), it was agreed that the project should live under its own LLC until it has sufficient funds to enter a support contract with Sassafras, thus increasing its institutional support. This remains the intention.
 
 ### Where Does The Money Go?
 
@@ -67,6 +67,6 @@ The more funds that can be raised to defray these costs, the faster development 
 
 ### Future Directions: Community Ownership
 
-As Gather matures, we are looking forward to transforming it into a [platform cooperative](https://en.wikipedia.org/wiki/Platform_cooperative). In this model, the Gather system would be owned by a cooperative entity comprised of both the workers who build the system _and_ the community members who use it.
+As Gather matures, we are looking forward to transforming it into a [multi-stakeholder cooperative](http://cultivate.coop/wiki/Multi-stakeholder_cooperatives). In this model, the Gather system would be owned by a cooperative entity comprised of both the workers who build the system _and_ the community members who use it.
 
-Forming Gather as platform cooperative would ensure its continued accountability to those it serves, rather than investors or shareholders, as the system grows.
+Constituting Gather as a cooperative would ensure its continued accountability to those it serves, rather than investors or shareholders, as the system grows.

@@ -10,7 +10,7 @@ Children also have separate accounts in Gather, but:
 * They can't sign in to the system directly and therefore can't sign their Households for meals, reserve resources, etc.
 * They don't count in the calculation of the community's subscription cost.
 
-Having children in Gather is useful for things listing them in the member directory, including them in the meals or work program, etc.
+Having children in Gather is useful for things like listing them in the member directory, including them in the meals or work program, etc.
 
 #### What are the different member roles and what can they do?
 
