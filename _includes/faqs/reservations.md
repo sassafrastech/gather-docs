@@ -1,3 +1,16 @@
+#### Why can't I delete a reservation after it has started?
+
+Reservations can't be deleted after they have started because we feel this increases the incentive to only
+reserve community resources when one is reasonably certain of needing them, rather than doing so speculatively
+with the intention of possibly canceling later.
+
+Reservations can still be _shortened_ after they have begun, and we recommend this as the proper course of action
+for someone realizing they no longer need the resource. They can shorten the booking to end around the current time,
+after which someone else is then free to reserve it.
+
+If some communities disagree with the above then we can certainly make this an option in the system rather than a
+hard and fast rule. Please let us know.
+
 #### How do we set maximum booking amounts or maximum days in advance or ...?
 
 Gather has a sophisticated set of protocols for governing reservations. They include:
