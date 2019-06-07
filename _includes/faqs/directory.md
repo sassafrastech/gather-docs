@@ -35,4 +35,4 @@ A unit represents a physical location like a house or apartment.
 
 A household represents a group of members that share finances for the purposes of billing. Several households may exist in a single unit. Meal signups and billing statements are on a household basis for this reason. It wouldn't make sense to send separate statements to two members of the same household.
 
-In general, each member must belong to exactly one household. An exception to this rule Children can belong to multiple households if their parents/guardians are in different households.
+In general, each member must belong to exactly one household. An exception to this rule is that children can belong to multiple households if their parents/guardians are in different households.
