@@ -15,6 +15,6 @@ Contact us at [info@gather.coop](mailto:info@gather.coop) for all inquiries.
   <img src="/assets/img/team/sam.jpg" alt="Sam Affholter photo" />
   <div>
     <strong>Sam Affholter</strong><br/>
-    Sales, Marketing, Support
+    Sales, Marketing, Support, Billing
   </div>
 </div>
