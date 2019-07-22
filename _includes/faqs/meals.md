@@ -2,7 +2,7 @@
 
 These are the basic steps:
 
-1. **Creation**<br/>Meals are created and staff assigned. Meals are open for signup at this point.
+1. **Creation**<br/>Meals are created and staff are assigned. Meals are open for signup at this point.
 1. **Menu Addition**<br/>The cook decides what to cook and adds the menu. This can happen as part of step 1, or separately.
 1. **Signup**<br/>Members sign up for the meal. This can technically happen before menu addition but the majority of signups usually take place after the menu has been added.
 1. **Closing**<br/>The meal is closed by the cook, usually before they go to shop for groceries so they know how much to buy. No signups are allowed after this point.
