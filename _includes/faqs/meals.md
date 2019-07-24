@@ -12,4 +12,4 @@ These are the basic steps:
 
 #### Are meal jobs separate from work jobs?
 
-Our meal system integrates with the work system, so you sign up for working on meals just like you would sign up for other jobs. 
+The meal system is integrated with the work system. Once meals are created, they will be able to be imported into a work period, whereupon jobs and shifts will be automatically created and linked. Future updates to a meal's workers will be reflected in both systems. Calendar exports and reminders for meals jobs will be unified as well.
