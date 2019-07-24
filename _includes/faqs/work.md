@@ -28,3 +28,7 @@ The system was built to suit the needs of Touchstone Cohousing. At that communit
 Once meals are created, they will be able to be imported into a work period, whereupon jobs and shifts
 will be automatically created and linked. Future updates to a meal's workers will be reflected in both systems.
 Calendar exports and reminders for meals jobs will be unified as well.
+
+#### What about children?
+
+By default, childrens' shares are set to zero, but you can change that when editing a period.
