@@ -47,3 +47,11 @@ Heroku's free tier is designed for experimentation, not production use, and Gath
 Then there is support. As mentioned above, maintaining a production web application is not a trivial matter. (We like to say a web application is more like a dog than a hammer!) Heroku helps with some maintenance tasks but not all of them.
 
 Given all this, we'd be much happier if your dollars were going towards supporting Gather instead of Heroku!
+
+#### What about system backups?
+
+The full system is backed up nightly in the cloud.
+
+#### What kind of security does Gather utilize?
+
+Gather is a security-first application. We used popular, battle-tested frameworks, specifically Ruby on Rails, Devise, and Pundit, to build Gather. We also have extensive automated tests to prevent bugs or regressions as we continue to work on the system. All Gather traffic goes over a secure HTTPS connection. Email addresses must be confirmed to prevent account hijacking. We enforce intelligent password strength rules. The list goes on.
