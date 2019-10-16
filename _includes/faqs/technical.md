@@ -25,6 +25,14 @@ Not yet. What would you need one for? [Let's talk](/contact).
 
 See the [planned feature roadmap](/roadmap) for what we have in store. If your idea isn't there, [let us know](/contact).
 
+#### Where is our data?
+
+Currently, it is on a server at Amazon's Virgina data center. We have a plan to move it to another cloud provider, Digital Ocean, whose servers are in New York.
+
+#### What about privacy? Is our data shared with other communities using Gather?
+
+No. All the communities are strictly separated within the application. All data is transmitted over an encrypted connection. It is not stored in an encrypted format, but the server itself is locked down according to industry standard practices.
+
 #### Can we self-host our own Gather instance?
 
 Gather is [open source](https://github.com/gather-community/gather) so anyone is free to setup their own instance.
