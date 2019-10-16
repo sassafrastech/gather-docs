@@ -28,6 +28,10 @@ Gather has a sophisticated set of protocols for governing reservations. They inc
 
 Each of the above is configurable for a single resource or group of resources.
 
+#### Can I reserve multiple resources for the same event?
+
+We are working on this function. Currently, the system will merge events with the same names and times into a single event on the reservations calendar, but you do have to create multiple reservations.
+
 #### How do I configure all the above settings?
 
 Click 'Reservations' and then click the 'Protocols' tab. Create a new protocol or edit an existing one.
