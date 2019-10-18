@@ -16,7 +16,7 @@ where there is near-total participation in the work system and about 300 hours o
 * Multiple email reminders can be configured for each job.
 * Jobs can be exported to your favorite calendar software.
 * To promote equitable sharing, the system can automatically compute a quota for each worker based on the total amount of hours of work needed.
-* Accommodations of reduced work hours (shares) can be granted to workers in need.
+* If using the quota system, all adults receive an equal share of the work by default, but shares can be adjusted to grant accommodations as needed.
 * Job choosing can optionally be conducted in rounds to reduce the number of people picking jobs at once.
 
 Coming soon:
