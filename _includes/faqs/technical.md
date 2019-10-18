@@ -33,10 +33,6 @@ Currently, it is on a server at Amazon's Virgina data center. We have a plan to 
 
 No. All the communities are strictly separated within the application. All data is transmitted over an encrypted connection. It is not stored in an encrypted format, but the server itself is locked down according to industry standard practices.
 
-#### Will inactive users still receive emails?
-
-Only billing statement-related emails will still go to inactive users in the event they still have a balance. Inactive users can also have their emails deleted so even billing statement emails could be silenced by removing the inactive user's email address.
-
 #### Can we self-host our own Gather instance?
 
 Gather is [open source](https://github.com/gather-community/gather) so anyone is free to setup their own instance.
