@@ -25,6 +25,14 @@ Not yet. What would you need one for? [Let's talk](/contact).
 
 See the [planned feature roadmap](/roadmap) for what we have in store. If your idea isn't there, [let us know](/contact).
 
+#### Where is our data?
+
+Currently, it is on a server at Amazon's Virgina data center. We have a plan to move it to another cloud provider, Digital Ocean, whose servers are in New York.
+
+#### What about privacy? Is our data shared with other communities using Gather?
+
+No. All the communities are strictly separated within the application. All data is transmitted over an encrypted connection. It is not stored in an encrypted format, but the server itself is locked down according to industry standard practices.
+
 #### Can we self-host our own Gather instance?
 
 Gather is [open source](https://github.com/gather-community/gather) so anyone is free to setup their own instance.
@@ -47,3 +55,11 @@ Heroku's free tier is designed for experimentation, not production use, and Gath
 Then there is support. As mentioned above, maintaining a production web application is not a trivial matter. (We like to say a web application is more like a dog than a hammer!) Heroku helps with some maintenance tasks but not all of them.
 
 Given all this, we'd be much happier if your dollars were going towards supporting Gather instead of Heroku!
+
+#### What about system backups?
+
+The full system is backed up nightly in the cloud.
+
+#### What kind of security does Gather utilize?
+
+Gather is a security-first application. We used popular, battle-tested frameworks, specifically Ruby on Rails, Devise, and Pundit, to build Gather. We also have extensive automated tests to prevent bugs or regressions as we continue to work on the system. All Gather traffic goes over a secure HTTPS connection. Email addresses must be confirmed to prevent account hijacking. We enforce intelligent password strength rules. The list goes on.
