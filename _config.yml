@@ -60,6 +60,8 @@ features:
     url: /features/directory
   - title: Meals
     url: /features/meals
+  - title: Groups
+    url: /features/groups
   - title: Work
     url: /features/work
   - title: Reservations

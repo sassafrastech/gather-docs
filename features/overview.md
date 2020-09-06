@@ -8,6 +8,7 @@ Gather handles many aspects of living together including:
 
 * [Shared meals](/features/meals)
 * [Member directory](/features/directory)
+* [Group communication](/features/groups)
 * [Room and resource reservations](/features/reservations)
 * [Shared work](/features/work)
 * [Wiki of community information](/features/wiki)
