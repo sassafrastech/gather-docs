@@ -6,10 +6,9 @@ Gather does a lot but it could do so much more. We've got big plans.
 
 (In rough order of priority)
 
-* Mailman integration for integrated email list support
+* Full event calendaring system, tightly integrated with meals, reservations, meetings, birthdays, etc.
 * Wiki attachments and Google Drive integration
 * Discourse integration for integrated discussion forum support
-* Full event calendaring system, tightly integrated with meals, reservations, meetings, birthdays, etc.
 * Decision-making support including issue tracking, decision archiving, and meeting planning
 
 ### Other Major Goals
