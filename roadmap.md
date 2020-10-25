@@ -8,8 +8,7 @@ Gather does a lot but it could do so much more. We've got big plans.
 
 * Full event calendaring system, tightly integrated with meals, reservations, meetings, birthdays, etc.
 * Wiki attachments and Google Drive integration
-* Discourse integration for integrated discussion forum support
-* Decision-making support including issue tracking, decision archiving, and meeting planning
+* Decision-making and task support including issue tracking, decision archiving, and meeting planning
 
 ### Other Major Goals
 
@@ -24,6 +23,7 @@ Gather does a lot but it could do so much more. We've got big plans.
 * HOA dues collection
 * Private resource borrowing/lending
 * Car sharing
+* Maintenance access coordination
 
 Also see our [Github issue tracker](https://github.com/gather-community/gather/issues?q=is%3Aopen+is%3Aissue+label%3Atype%3Aenhancement) for more things in the pipeline.
 
