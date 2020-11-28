@@ -9,3 +9,7 @@ These are the basic steps:
 1. **Summary**<br/>The cook views or prints out the meal summary page which lists the number of diners of each type, the expected number of portions needed, and grocery allowance calculations.
 1. **Mealtime and Late Additions**<br/>Let's eat! Any late signups permitted by the cook are recorded on the summary sheet or directly in Gather.
 1. **Finalizing**<br/>The meals biller (or optionally the head cook) finalizes the meal. This includes adjusting the signup counts to reflect latecomers and entering the amount spent on groceries. Charges are added to diner accounts. Care should be taken here as this step can't be undone.
+
+#### Are meal jobs separate from work jobs?
+
+The meal system is integrated with the work system. Once meals are created, they will be able to be imported into a work period, whereupon jobs and shifts will be automatically created and linked. Future updates to a meal's workers will be reflected in both systems. Calendar exports and reminders for meals jobs will be unified as well.
